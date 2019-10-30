@@ -1,0 +1,23 @@
+{
+  "element": "address_1",
+  "help": null,
+  "hint": null,
+  "label": "Address 1",
+  "language": "en",
+  "name": "x_308211_test_devo_test_devops_request",
+  "plural": "Address 1s",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-30 18:49:02",
+  "sys_id": "50188bf5db340010343f58b3ca961917",
+  "sys_mod_count": 0,
+  "sys_name": "Address 1",
+  "sys_package": "64168375db340010343f58b3ca96198b",
+  "sys_policy": null,
+  "sys_scope": "64168375db340010343f58b3ca96198b",
+  "sys_update_name": "sys_documentation_x_308211_test_devo_test_devops_request_address_1_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-30 18:49:02",
+  "url": null,
+  "url_target": null
+}
