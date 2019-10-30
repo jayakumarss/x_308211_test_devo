@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": null,
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "test script",
+  "order": null,
+  "script": {
+    "____see": "sn\\Test DevOps\\Client Script\\{--none--}\\active_true\\test script.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-30 18:41:53",
+  "sys_id": "a946cf75db340010343f58b3ca961904",
+  "sys_mod_count": 0,
+  "sys_name": "test script",
+  "sys_package": "64168375db340010343f58b3ca96198b",
+  "sys_policy": null,
+  "sys_scope": "64168375db340010343f58b3ca96198b",
+  "sys_update_name": "sys_script_client_a946cf75db340010343f58b3ca961904",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-30 18:41:53",
+  "table": null,
+  "type": null,
+  "ui_type": 0,
+  "view": null
+}
